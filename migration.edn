@@ -1,0 +1,4 @@
+{:schema "etzhayyim.migration/v1"
+ :source {:repository "etzhayyim/root" :revision "c9e7df4b327a3ee7b5ed25fb3480db45553c33ed" :path "60-apps/etzhayyim-project-runpod" :tree "3d0cc4aceab80ad574d11dbf000c31d50efb37a9" :tracked-files 12 :bytes 107920}
+ :destination {:repository "etzhayyim/com-etzhayyim-app-runpod"}
+ :identity {:allowed-additions ["README.edn" "migration.edn"]}}

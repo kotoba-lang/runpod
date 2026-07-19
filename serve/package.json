@@ -1,0 +1,15 @@
+{
+  "name": "etzhayyim-runpod-gateway",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy -c wrangler.jsonc"
+  },
+  "dependencies": {
+    "hono": "^4.12.25"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250317.0",
+    "wrangler": "^4.103.0"
+  }
+}
