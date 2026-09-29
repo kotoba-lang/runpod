@@ -16,11 +16,11 @@
 現時点の repo 上の確認結果:
 
 - `YouTube` は専用設計あり
-  - `60-apps/etzhayyim-project-youtube/CLAUDE.md`
+  - `60-apps/etzhayyim-project-youtube/AGENTS.md`
   - `60-apps/etzhayyim-project-youtube/wit/youtube/package.wit`
 - `TikTok / Baidu / Douyin / Bilibili` は同等レベルの actor/project は未確認
 - `RunPod` は現状 `Ollama` を載せた推論 gateway が中心
-  - `60-apps/etzhayyim-project-runpod/CLAUDE.md`
+  - `60-apps/etzhayyim-project-runpod/AGENTS.md`
   - `60-apps/etzhayyim-project-runpod/serve/handler.py`
   - `60-apps/etzhayyim-project-runpod/serve/worker-gateway.ts`
 
